@@ -44,6 +44,7 @@ margin-top: 10px;
      padding: 21px 24px 21px 24px;                       color: rgb(255, 255, 255);
      background-color:rgb(13, 19, 33);
      border-radius: 8px;
+     font-size: 17px;
      
      }
      .second-heading{
@@ -131,6 +132,9 @@ padding: 30px;
     padding: 30px;
 }
     
+html {
+     scroll-behavior: smooth;
+   }
 
 .head-info{
      color: rgb(255, 255, 255);
@@ -187,6 +191,9 @@ padding: 30px;
      align-items: center;
      margin-left: 110px;
      margin-right: 190px;
+     border-radius: 16px;
+     background-color: rgba(212, 218, 235, 0.247);
+    
 }
 .icon{
      display: flex;
@@ -203,8 +210,9 @@ padding: 30px;
 }
 .support-content{
    text-align: center;
-}
-.support{
-
+   width: 350px;
 }
 
+.page-content .section-title{
+      color: rgb(13, 19, 33);
+}
