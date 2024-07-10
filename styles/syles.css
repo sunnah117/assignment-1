@@ -36,6 +36,8 @@ line-height: 26px;
 letter-spacing: 0%;
 opacity: 0.7;
 margin-top: 0px;
+margin-top: 10px;
+
 }
 .btn{
      margin-top: 32px;
@@ -48,6 +50,8 @@ margin-top: 0px;
           font-size: 32px;
           font-weight: 800px;
           margin-bottom: 20px;
+          align-content: center;
+          text-align: center;
      }
 .second-page{
      padding: 0px 97px 0px 97px;
@@ -74,5 +78,24 @@ margin-top: 0px;
 }
 .paragraph-content{
      opacity: 0.7;
+     
 
+}
+.paragraph-content-two{
+     margin: 0px 260px;
+     opacity: 0.7;
+}
+.video{
+     margin-top: 48px;
+    
+     border-radius: 16px;
+     display: flex;
+     justify-content: center;
+     margin: 48px 180px;
+    
+}
+.video frame {
+     border-radius: 16px;
+     width: 1076px;
+     height: 550px;
 }
