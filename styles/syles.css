@@ -84,6 +84,8 @@ margin-top: 10px;
 .paragraph-content-two{
      margin: 0px 260px;
      opacity: 0.7;
+     
+     text-align: center;
 }
 .video{
      margin-top: 48px;
@@ -99,3 +101,40 @@ margin-top: 10px;
      width: 1076px;
      height: 550px;
 }
+#cards {
+
+margin-bottom: 110px;
+display: flex;
+justify-content: center;
+padding: 0px;
+gap: 20px;
+align-items: center;
+}
+
+.box-1{
+     max-width:200px;
+     margin-top: 48px;
+     background: rgba(255, 76, 30, 0.05);
+padding: 30px;
+}
+
+.box-2{
+     max-width:200px;
+     margin-top: 48px;
+     background: rgba(0, 76, 232, 0.05);
+     padding: 30px;
+}
+.box-3{
+     max-width:200px;
+     margin-top: 48px;
+    background-color:  rgba(255, 223, 0, 0.05);
+    padding: 30px;
+}
+    
+
+/* .box-info{
+     margin-top: 48px;
+     justify-content: center;
+     align-items: center;
+     
+} */ */
